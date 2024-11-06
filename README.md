@@ -26,6 +26,8 @@ Tactful Topi is a dark theme for Visual Studio Code inspired by Ubuntu colors. I
 - Custom colors for various UI elements such as activity bar, editor, terminal, and more.
 - Syntax highlighting for multiple programming languages.
 
+![VSCode](images/vscode.png)
+
 ### Tactful Topi: A Playful Tribute to Ubuntu Naming
 
 The name "Tactful Topi" is a light-hearted nod to the unique naming convention Ubuntu uses for its releases: combining an adjective with the name of an African animal, both with the same first letter (e.g., "Warty Warthog," "Precise Pangolin"). Here, "Tactful" means showing sensitivity and thoughtfulness—qualities we might wish for our code editor to embody! Meanwhile, the "Topi" is a type of antelope found in Africa, known for its sleek appearance and swift movements.
