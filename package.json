@@ -1,0 +1,37 @@
+{
+  "name": "tactful-topi",
+  "displayName": "Tactful Topi",
+  "description": "Ubuntu-based color theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/toti-icon.png",
+  "galleryBanner": {
+    "color": "#E95420",
+    "theme": "dark"
+  },
+  "publisher": "meireles",
+  "license": "MIT License",
+  "homepage": "https://github.com/danielbmeireles/tactful-topi/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/danielbmeireles/tactful-topi/issues",
+    "email": "16562270+danielbmeireles@users.noreply.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbmeireles/tactful-toti.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tactful Topi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tactful-topi-color-theme.json"
+      }
+    ]
+  }
+}
