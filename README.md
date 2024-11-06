@@ -1,6 +1,6 @@
 # Tactful Topi <!-- omit from toc -->
 
-![Toti](images/toti-icon.png)
+![Toti](/images/toti-icon.png)
 
 ## Table of Contents <!-- omit from toc -->
 - [Installation](#installation)
@@ -26,7 +26,7 @@ Tactful Topi is a dark theme for Visual Studio Code inspired by Ubuntu colors. I
 - Custom colors for various UI elements such as activity bar, editor, terminal, and more.
 - Syntax highlighting for multiple programming languages.
 
-![VSCode](images/vscode.png)
+![VSCode](/images/vscode.png)
 
 ### Tactful Topi: A Playful Tribute to Ubuntu Naming
 
