@@ -1,6 +1,6 @@
 # Tactful Topi <!-- omit from toc -->
 
-![Toti](/images/toti-icon.png)
+![Topi Icon](https://github.com/danielbmeireles/tactful-topi/blob/main/images/toti-icon.png?raw=true)
 
 ## Table of Contents <!-- omit from toc -->
 - [Installation](#installation)
@@ -19,6 +19,7 @@ Tactful Topi is a dark theme for Visual Studio Code inspired by Ubuntu colors. I
 1. Open up Visual Studio Code and hit `Ctrl+P` to open the Quick Open dialog.
 2. Type `ext install meireles.tactful-topi`, and hit enter. The extension will be installed.
 3. Open the color theme picker with the `File > Preferences > Theme > Color Theme` menu item, or use the `Preferences: Color Theme` command (`Ctrl+K Ctrl+T`) and select "Tactful Topi".
+4. Additionally, you can install the [Ubuntu Mono font](https://design.ubuntu.com/font/) and the [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) for a complete Ubuntu-inspired coding experience.
 
 ### Features
 
@@ -26,7 +27,7 @@ Tactful Topi is a dark theme for Visual Studio Code inspired by Ubuntu colors. I
 - Custom colors for various UI elements such as activity bar, editor, terminal, and more.
 - Syntax highlighting for multiple programming languages.
 
-![VSCode](/images/vscode.png)
+![VSCode](https://github.com/danielbmeireles/tactful-topi/blob/main/images/vscode.png?raw=true)
 
 ### Tactful Topi: A Playful Tribute to Ubuntu Naming
 
@@ -43,3 +44,6 @@ If you have suggestions or improvements, feel free to contribute by opening an i
 This theme is licensed under the [MIT License](LICENSE).
 
 **Enjoy coding with Tactful Topi!**
+
+
+[def]: https://assets.digitalocean.com/articles/alligator/boo.svg "a title"

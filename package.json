@@ -2,7 +2,7 @@
   "name": "tactful-topi",
   "displayName": "Tactful Topi",
   "description": "Ubuntu-based color theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.95.0"
   },
